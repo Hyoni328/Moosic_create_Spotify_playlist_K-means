@@ -40,6 +40,6 @@ By the end of this project, we are expected to present our clusters to the team 
 3. **Understanding Music Beyond Numbers**:
    - Initially found it difficult to feel the music through numerical data alone, but listening to the music in each group was helpful for better understanding.
 
-## Sample playlist
+## Sample playlists
 - Melancholic music (https://open.spotify.com/playlist/1Ja9OBWBj4iyb9ZejiPbhW?si=7729e67cb7b34e12)
 - Good vibe dance music (https://open.spotify.com/playlist/5JN5tYEJkyIpj2WUKCpJfI?si=54474d6632bd49fe)
